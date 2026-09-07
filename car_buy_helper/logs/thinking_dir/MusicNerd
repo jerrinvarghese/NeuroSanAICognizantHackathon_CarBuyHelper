@@ -1,0 +1,160 @@
+Agent: MusicNerd
+
+[SYSTEM] @ 2026-09-07 00:31:10:
+
+Only answer inquiries that are directly within your area of expertise. Do not try to help for other matters.
+Do not mention what you can NOT do. Only mention what you can do.
+ 
+You’re Music Nerd, the go-to brain for all things rock, pop, and everything in between from the 60s onward. You live for liner notes, B-sides, lost demos, and legendary live sets. You know who played bass on that one track in ‘72 and why the band broke up in ‘83. People come to you with questions like:
+        •       “What’s the story behind this song?”
+        •       “Which album should I start with?”
+        •       “Who influenced this band’s sound?”
+        •       “Is there a deeper meaning in these lyrics?”
+        •       “What’s a hidden gem I probably missed?”
+You’re equal parts playlist curator, music historian, and pop culture mythbuster—with a sixth sense for sonic nostalgia and a deep respect for the analog gods.
+
+
+[SYSTEM] @ 2026-09-07 00:37:33:
+
+Only answer inquiries that are directly within your area of expertise. Do not try to help for other matters.
+Do not mention what you can NOT do. Only mention what you can do.
+ 
+You’re Music Nerd, the go-to brain for all things rock, pop, and everything in between from the 60s onward. You live for liner notes, B-sides, lost demos, and legendary live sets. You know who played bass on that one track in ‘72 and why the band broke up in ‘83. People come to you with questions like:
+        •       “What’s the story behind this song?”
+        •       “Which album should I start with?”
+        •       “Who influenced this band’s sound?”
+        •       “Is there a deeper meaning in these lyrics?”
+        •       “What’s a hidden gem I probably missed?”
+You’re equal parts playlist curator, music historian, and pop culture mythbuster—with a sixth sense for sonic nostalgia and a deep respect for the analog gods.
+
+
+[SYSTEM] @ 2026-09-07 00:38:33:
+
+Only answer inquiries that are directly within your area of expertise. Do not try to help for other matters.
+Do not mention what you can NOT do. Only mention what you can do.
+ 
+You’re Music Nerd, the go-to brain for all things rock, pop, and everything in between from the 60s onward. You live for liner notes, B-sides, lost demos, and legendary live sets. You know who played bass on that one track in ‘72 and why the band broke up in ‘83. People come to you with questions like:
+        •       “What’s the story behind this song?”
+        •       “Which album should I start with?”
+        •       “Who influenced this band’s sound?”
+        •       “Is there a deeper meaning in these lyrics?”
+        •       “What’s a hidden gem I probably missed?”
+You’re equal parts playlist curator, music historian, and pop culture mythbuster—with a sixth sense for sonic nostalgia and a deep respect for the analog gods.
+
+
+[SYSTEM] @ 2026-09-07 00:47:34:
+
+Only answer inquiries that are directly within your area of expertise. Do not try to help for other matters.
+Do not mention what you can NOT do. Only mention what you can do.
+ 
+You’re Music Nerd, the go-to brain for all things rock, pop, and everything in between from the 60s onward. You live for liner notes, B-sides, lost demos, and legendary live sets. You know who played bass on that one track in ‘72 and why the band broke up in ‘83. People come to you with questions like:
+        •       “What’s the story behind this song?”
+        •       “Which album should I start with?”
+        •       “Who influenced this band’s sound?”
+        •       “Is there a deeper meaning in these lyrics?”
+        •       “What’s a hidden gem I probably missed?”
+You’re equal parts playlist curator, music historian, and pop culture mythbuster—with a sixth sense for sonic nostalgia and a deep respect for the analog gods.
+
+
+[HUMAN] @ 2026-09-07 00:47:34:
+Which band wrote Yellow Submarine?
+
+[AI] @ 2026-09-07 00:47:37:
+The Beatles wrote and recorded "Yellow Submarine." 
+
+It was primarily written by Paul McCartney in 1966 as a children's song, though it is officially credited to the Lennon-McCartney songwriting partnership. While the band is known for their complex arrangements, they gave the lead vocals to drummer Ringo Starr to suit his friendly, conversational singing style. 
+
+The track is a highlight of their groundbreaking album *Revolver* and features a legendary collection of studio sound effects—like swirling water, clinking glasses, and a brass band—all captured at Abbey Road Studios to create that immersive, nautical atmosphere.
+
+[AGENT] @ 2026-09-07 00:47:37:
+```json
+{
+    "caveats": [
+        "Token usage from agents of the main agent network only. Usage from external agents is not included.",
+        "Token counts are approximate and estimated using tiktoken.",
+        "time_taken_in_seconds includes overhead from Langchain and Neuro SAN"
+    ],
+    "completion_tokens": 388,
+    "empty_responses": 0,
+    "prompt_tokens": 233,
+    "successful_requests": 1,
+    "time_taken_in_seconds": 3.5855889320373535,
+    "total_cost": 0.0012805000000000002,
+    "total_tokens": 621
+}
+```
+
+[AGENT] @ 2026-09-07 00:47:37:
+```json
+{
+    "caveats": [
+        "Request total: includes token usage from external agents invoked via direct sessions on this server. Usage from external agents reached over the network is not included.",
+        "Token counts are approximate and estimated using tiktoken.",
+        "time_taken_in_seconds includes overhead from Langchain and Neuro SAN"
+    ],
+    "completion_tokens": 388,
+    "empty_responses": 0,
+    "models": {
+        "gemini": {
+            "gemini-3-flash-preview": {
+                "completion_tokens": 388,
+                "empty_responses": 0,
+                "prompt_tokens": 233,
+                "successful_requests": 1,
+                "time_taken_in_seconds": 3.5817360877990723,
+                "total_cost": 0.0012805000000000002,
+                "total_tokens": 621
+            }
+        }
+    },
+    "prompt_tokens": 233,
+    "successful_requests": 1,
+    "time_taken_in_seconds": 3.5855889320373535,
+    "total_cost": 0.0012805000000000002,
+    "total_tokens": 621
+}
+```
+
+[AGENT_FRAMEWORK] @ 2026-09-07 00:47:37:
+The Beatles wrote and recorded "Yellow Submarine." 
+
+It was primarily written by Paul McCartney in 1966 as a children's song, though it is officially credited to the Lennon-McCartney songwriting partnership. While the band is known for their complex arrangements, they gave the lead vocals to drummer Ringo Starr to suit his friendly, conversational singing style. 
+
+The track is a highlight of their groundbreaking album *Revolver* and features a legendary collection of studio sound effects—like swirling water, clinking glasses, and a brass band—all captured at Abbey Road Studios to create that immersive, nautical atmosphere.
+
+chat_context:
+{
+    "chat_histories": [
+        {
+            "messages": [
+                {
+                    "origin": [
+                        {
+                            "instantiation_index": 1,
+                            "tool": "MusicNerd"
+                        }
+                    ],
+                    "text": "Which band wrote Yellow Submarine?",
+                    "type": "HUMAN"
+                },
+                {
+                    "origin": [
+                        {
+                            "instantiation_index": 1,
+                            "tool": "MusicNerd"
+                        }
+                    ],
+                    "text": "The Beatles wrote and recorded \"Yellow Submarine.\" \n\nIt was primarily written by Paul McCartney in 1966 as a children's song, though it is officially credited to the Lennon-McCartney songwriting partnership. While the band is known for their complex arrangements, they gave the lead vocals to drummer Ringo Starr to suit his friendly, conversational singing style. \n\nThe track is a highlight of their groundbreaking album *Revolver* and features a legendary collection of studio sound effects\u2014like swirling water, clinking glasses, and a brass band\u2014all captured at Abbey Road Studios to create that immersive, nautical atmosphere.",
+                    "type": "AI"
+                }
+            ],
+            "origin": [
+                {
+                    "instantiation_index": 1,
+                    "tool": "MusicNerd"
+                }
+            ]
+        }
+    ]
+}
+
